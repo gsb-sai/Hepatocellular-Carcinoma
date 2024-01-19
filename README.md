@@ -1,0 +1,1 @@
+The XML file contains the assembled molecular map of HCC from literature using Cell Designer V4.4, illustrating the regulators, their intricate signaling pathways, and underlying molecular mechanisms governing the development of disease and progression. 
